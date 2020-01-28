@@ -24,7 +24,7 @@ As I have said many times:
 >I am so in over my head
 >it is no longer funny!
 
-What on earth do the <addr>'quote marks'<addr>do?
+What on earth do the <addr>quote marks<addr> do?
 
 I did copy/paste this...
 ```javascript
