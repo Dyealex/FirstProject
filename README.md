@@ -35,8 +35,9 @@ if (isAwesome){
 first header | other header
 ------------ |-------------
 Cell One crap| Cell 2 crap
-1st Column crap| 2nd Column crap
+1st Column crap| 
 Is this a table or not????
+2nd Column crap
 It is a table.
 
 
