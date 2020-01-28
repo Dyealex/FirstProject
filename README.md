@@ -4,12 +4,21 @@
 ## This is an h2 tag
 ### This is an h3 tag
 *This says the text will be italic*
+
 *I am sceptical!* 
-**This will be bold...**  
+
+**This will be bold...** 
+
 **I am still sceptical!**
+
 __Will this be bold__
+
 __Still a sceptic__
+
 _Can these **things** be combined?_
+
+The list...
+
 1. I love..
     1. Cats (I have twelve)
     1. Snakes (Sorry!)
