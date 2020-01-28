@@ -10,13 +10,16 @@
 __Will this be bold__
 __Still a sceptic__
 _Can these **things** be combined?_
-1. Item 1
-    1. Item 1a
-    1. Item 1b
-1. Item 2 
-1. Item 3
-    1. Item 3a
-    1. Item 3a
+1. I love..
+    1. Cats (I have twelve)
+    1. Snakes (Sorry!)
+1. I am into
+    1. Swimming
+    1. Biking
+    1. Running
+1. My creative side enjoys...
+    1. Stained Glass
+    1. Mosaics
 ![Bluesnake] (/Downloads/bluesnake.jpg)
 Format: ![Alt Text] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBUZk4ldvdvamT5MzkUKBR82W7_20_BbxjbRfituTCPcfhl0HxPg&s)
 
@@ -24,7 +27,7 @@ As I have said many times:
 >I am so in over my head
 >it is no longer funny!
 
-What on earth do the <addr>quote marks<addr> do?
+What on earth do the <addr>'quote marks'<addr> do?
 
 I did copy/paste this...
 ```javascript
