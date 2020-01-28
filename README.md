@@ -4,8 +4,8 @@
 ## This is an h2 tag
 ### This is an h3 tag
 *This says the text will be italic*
-*I am scepticle!*
-**This will be bold...**
+*I am sceptical!* 
+**This will be bold...**  
 **I am still sceptical!**
 __Will this be bold__
 __Still a sceptic__
@@ -37,6 +37,7 @@ first header | other header
 Cell One crap| Cell 2 crap
 1st Column crap| 2nd Column crap
 Is this a table or not????
+It is a table.
 
 
 
