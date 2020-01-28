@@ -21,7 +21,7 @@ _Can these **things** be combined?_
     1. Stained Glass
     1. Mosaics
 
-![Bluesnake](C:\Users\theClubhou.se\Downloads/bluesnake.jpg)  
+![Bluesnake](Downloads/bluesnake.jpg)  
 Format: ![Alt Text] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBUZk4ldvdvamT5MzkUKBR82W7_20_BbxjbRfituTCPcfhl0HxPg&s)
 
 As I have said many times:
