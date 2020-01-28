@@ -17,14 +17,14 @@ _Can these **things** be combined?_
 1. Item 3
     1. Item 3a
     1. Item 3a
-![Bluesnake] (C:\Users\theClubhou.se\Downloads/bluesnake.jpg)
+![Bluesnake] (/Downloads/bluesnake.jpg)
 Format: ![Alt Text] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBUZk4ldvdvamT5MzkUKBR82W7_20_BbxjbRfituTCPcfhl0HxPg&s)
 
 As I have said many times:
 >I am so in over my head
 >it is no longer funny!
 
-What on earth is '<addr>' is this suppose to do?
+What on earth do the '<addr>'quote marks'<addr>do?
 
 I did copy/paste this...
 ```javascript
