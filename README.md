@@ -38,9 +38,9 @@ if (isAwesome){
 ```
 first header | other header
 ------------ |-------------
-Cell One crap| Cell 2 crap|
-1st Column crap| 2nd Column crap
-Is this a table or not???? |It is a table.
+Cell One|Is this a table or not????| Cell 2|It is a table.
+
+ |
 
 
 
