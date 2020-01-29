@@ -54,8 +54,8 @@ Cell 2|It is a table.
 ---
 ~~I am not sure what a "tildes" is?~~
 This is suppose to create  
-            <br/>   
-               a line break but it does not when I try it.
+<br/>
+a line break but it does not when I try it.
 
 
 
