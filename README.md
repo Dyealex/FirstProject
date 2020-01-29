@@ -53,8 +53,8 @@ Cell One|Is this a table or not????
 Cell 2|It is a table.
 ---
 ~~I am not sure what a "tildes" is?~~
-This is suppose to create 
-a line break but it does not when I try it.
+This is suppose to create  
+                a line break but it does not when I try it.
 
 
 
