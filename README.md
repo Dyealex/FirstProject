@@ -20,6 +20,11 @@ _Can these **things** be combined?_
 ***
 The list...
 
+<<<<<<< HEAD
+=======
+# remove me later
+
+>>>>>>> e38700918a189e2ff1db7e9dfa86b56c0999e10a
 1. I love..
     1. Cats (I have twelve)
     1. Snakes (Sorry!)
